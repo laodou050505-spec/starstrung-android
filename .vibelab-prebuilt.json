@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "processor_revision": "il2cpp-prebuild-v6",
-  "il2cpp_so_sha256": "bba5f49e50da998a692a1ac05fc3600a463c9b59d2ebdcdbef9f2041773657b8",
-  "global_metadata_sha256": "3fcae339843308adbdcfd8373e868317e51c9c88ec17ef374ec4ec71c2759eda",
+  "il2cpp_so_sha256": "736e71a66eb04234da1a75ddb5e764ed8da6a7f9e3b8a019194dad129cf3d53d",
+  "global_metadata_sha256": "be74508e2859aba5ade956f26fb713f4a405c9d3b9330328e72a3f6a423279a6",
   "unity_version": "6000.5.5f1",
   "unity_template_version": "25",
   "ndk_version": "27.2.12479018",
@@ -24,12 +24,16 @@
       "sha256": "347d5f94c94774e181ab1649257c36e2169c6e786342da6a3041bd3e16172449"
     },
     {
+      "name": "libPicoSpatializer.so",
+      "sha256": "456f0e9d75fe8b388c442dc3dc64b3495d824b8b34ff2b84cfd9a3fe09b801f6"
+    },
+    {
       "name": "lib_burst_generated.so",
-      "sha256": "73c2010fa0fcb5fe02affd8f6695fe09f1307ae2490735c859a695af83d9411e"
+      "sha256": "b7f50812a531bde6bfd6cbfc1f7962bbcc50a74130d1157903dfeef087a4de88"
     },
     {
       "name": "libil2cpp.so",
-      "sha256": "bba5f49e50da998a692a1ac05fc3600a463c9b59d2ebdcdbef9f2041773657b8"
+      "sha256": "736e71a66eb04234da1a75ddb5e764ed8da6a7f9e3b8a019194dad129cf3d53d"
     },
     {
       "name": "libmain.so",
@@ -37,8 +41,8 @@
     },
     {
       "name": "libunity.so",
-      "sha256": "6a3174ab93781d9925a7281b90827c8d6da843e2613ade40f4debc387479408a"
+      "sha256": "c88cf1e534e2eec56b124e35e5fffcbabed2994ad12cef90ccea354640542e40"
     }
   ],
-  "generated_at": "2026-11-26T03:54:59Z"
+  "generated_at": "2026-11-26T07:20:04Z"
 }

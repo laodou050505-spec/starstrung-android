@@ -30,9 +30,9 @@
     </activity>
     <meta-data android:name="pxr.sdk.generation" android:value="4" />
     <meta-data android:name="pvr.app.type" android:value="vr" />
-    <meta-data android:name="pxr.sdk.version_code" android:value="6000" />
+    <meta-data android:name="pxr.sdk.version_code" android:value="5140" />
     <meta-data android:name="use.pxr.sdk" android:value="1" />
-    <meta-data android:name="pvr.sdk.version" android:value="Unity_XR_6.0.0" />
+    <meta-data android:name="pvr.sdk.version" android:value="Unity_XR_0.13.0" />
     <meta-data android:name="enable_cpt" android:value="0" />
     <meta-data android:name="Enable_AdaptiveHandModel" android:value="0" />
     <meta-data android:name="Hand_Tracking_HighFrequency" android:value="0" />
